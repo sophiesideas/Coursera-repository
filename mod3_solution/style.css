@@ -8,9 +8,9 @@ body {
 /** HEADER **/
 #header-nav {
   background-color: gray;
-  border-radius: 10px;
+  border-radius: 0;
   border-color: black;
-  border: 10px;
+  border: 30px;
 }
 
 #logo-img {
