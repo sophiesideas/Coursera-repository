@@ -32,3 +32,6 @@ body {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+.menu-header {
+  text-align: center;
+}
