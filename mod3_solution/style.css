@@ -33,6 +33,7 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+
 @media (min-width: 768px) {
   .navbar-toggle{
     display:none;
@@ -45,6 +46,11 @@ body {
   font-weight: bold;
 }
 
+.main-section {
+  background-color: gray;
+}
+
+}
 .main-section h2 {
   text-align: center;
   font-weight: bold;
