@@ -23,7 +23,7 @@ body {
   font-weight: bold;
   margin-top: 10px;
   margin-bottom: 10px;
-  line-height: .75;
+  
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
