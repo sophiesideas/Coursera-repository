@@ -9,7 +9,8 @@ body {
 #header-nav {
   background-color: gray;
   border-radius: 0;
-  border: 0;
+  border-color: black;
+  border: 10px;
 }
 
 #logo-img {
