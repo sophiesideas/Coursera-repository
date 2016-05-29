@@ -28,6 +28,11 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+@media (min-width: 768px) {
+  .navbar-toggle{
+    display:none;
+  }
+}
 
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
