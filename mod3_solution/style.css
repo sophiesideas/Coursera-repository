@@ -10,7 +10,7 @@ body {
   background-color: gray;
   border-radius: 0;
   border: 0;
-  height: 40px;
+  
 }
 
 .navbar-brand {
@@ -28,6 +28,7 @@ body {
   margin-bottom: 10px;
   padding-bottom: 10px;
   padding-left: 10px;
+  line-height:1.5;
   
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
