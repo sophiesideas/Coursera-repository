@@ -19,7 +19,7 @@ body {
   padding-left: 10px;
 }
 
-.navbar-brand h1 { /* Restaurant name */
+.navbar-header h1 { /* Restaurant name */
   font-family: Arial, serif;
   color: black;
   font-size: 1.5em;
