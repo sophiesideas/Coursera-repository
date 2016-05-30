@@ -35,9 +35,11 @@ button.navbar-toggle.visible-xs.visible-sm {
   padding-left: 10px;
 }
 
+@media (min-width: 768px) {
 .navbar-collapse {
   color: black;
   background-color: white;
+}
 }
 
 }
