@@ -38,6 +38,8 @@ button.navbar-toggle.visible-xs.visible-sm {
 .navbar-collapse {
   color: black;
   background-color: white;
+  border-color: black;
+  border:10px;
 }
 
 }
