@@ -13,6 +13,22 @@ body {
   
 }
 
+nav.navbar.navbar-default {
+	background-color: #CCC;
+	height: 60px;
+}
+
+div.navbar-brand {
+	font-size: 2em;
+}
+
+div.navbar-brand a {
+	color: black;
+}
+button.navbar-toggle.visible-xs.visible-sm {
+  float: right;
+}
+
 .navbar-brand {
   padding-top: 10px;
   padding-bottom: 10px;
