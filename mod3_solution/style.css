@@ -38,6 +38,9 @@ body {
   .navbar-toggle{
     display:none;
   }
+  .collapsable-nav{
+    display:none;
+  }
 }
 
 .menu-header {
