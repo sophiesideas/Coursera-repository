@@ -38,7 +38,7 @@ body {
   .navbar-toggle{
     display:none;
   }
-  .collapsable-nav{
+  #collapsable-nav{
     display:none;
   }
 }
