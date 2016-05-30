@@ -35,6 +35,12 @@ button.navbar-toggle.visible-xs.visible-sm {
   padding-left: 10px;
 }
 
+.nav-list {
+  color: black;
+  background-color: white;
+}
+
+}
 .navbar-header h1 { /* Restaurant name */
   font-family: Arial, serif;
   color: black;
