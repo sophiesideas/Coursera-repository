@@ -35,7 +35,7 @@ button.navbar-toggle.visible-xs.visible-sm {
   padding-left: 10px;
 }
 
-.nav-list {
+div.collapsible-nav {
   color: black;
   background-color: white;
 }
